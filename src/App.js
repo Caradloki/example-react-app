@@ -18,6 +18,7 @@ function App() {
 		<Router>
 			<div>
 				<h2>Hello there!</h2>
+				<h2>General Kenobi!</h2>
 				<nav>
 					<ul>
 						<li>
