@@ -32,9 +32,9 @@ function App() {
 							</NavLink>
 						</li>
 						<li>
-							<NavLink to="/users" activeClassName="active">
-								Users
-							</NavLink>
+							<a href="/a">
+								Learn React
+							</a>
 						</li>
 					</ul>
 				</nav>
